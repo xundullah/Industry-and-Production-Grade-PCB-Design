@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DK-PM-FV-VC-Buck_NonIsolated_V1.0.PrjPCB]
+   Generated File[DK-PM-FV-VC-Buck_NonIsolated_V1.0-RoundHoles-Plated.TXT]
+   Generated File[DK-PM-FV-VC-Buck_NonIsolated_V1.0-RoundHoles-NonPlated.TXT]
+   Generated File[DK-PM-FV-VC-Buck_NonIsolated_V1.0-SlotHoles-Plated.TXT]
+   Generated File[DK-PM-FV-VC-Buck_NonIsolated_V1.0.LDP]
+   Generated File[DK-PM-FV-VC-Buck_NonIsolated_V1.0.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 5:31:54 PM On 27-Nov-18

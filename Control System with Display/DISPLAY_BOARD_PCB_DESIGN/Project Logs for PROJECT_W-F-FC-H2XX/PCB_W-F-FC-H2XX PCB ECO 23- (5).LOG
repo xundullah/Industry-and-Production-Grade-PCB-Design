@@ -1,0 +1,32 @@
+Change Component Comment : Designator=ZD1 Old Comment=3.9V 1W 5% New Comment=4.3Vz 1W 217mA 5%
+Change Component Comment : Designator=K1 Old Comment=H12,W8,.6D New Comment=CapTouch Spring
+Change Component Comment : Designator=K2 Old Comment=H12,W8,.6D New Comment=CapTouch Spring
+Change Component Comment : Designator=K3 Old Comment=H12,W8,.6D New Comment=CapTouch Spring
+Change Component Description : Designator=ZD1 Old Description= New Description=ZM4731, MELF SILICON PLANAR POWER ZENER DIODES, LL-41
+Change Component Description : Designator=K1 Old Description= New Description=ØDxL=9x12mm LeadDia=0.6mm
+Change Component Description : Designator=K2 Old Description= New Description=ØDxL=9x12mm LeadDia=0.6mm
+Change Component Description : Designator=K3 Old Description= New Description=ØDxL=9x12mm LeadDia=0.6mm
+Change Component Description : Designator=C1 Old Description=0805 Multilayer Ceramic Capacitors New Description=Multilayer Ceramic Capacitors, SMD 0805
+Change Component Description : Designator=C2 Old Description=0805 Multilayer Ceramic Capacitors New Description=Multilayer Ceramic Capacitors, SMD 0805
+Change Component Description : Designator=C5 Old Description=0805 Multilayer Ceramic Capacitors New Description=Multilayer Ceramic Capacitors, SMD 0805
+Change Component Description : Designator=C6 Old Description=0805 Multilayer Ceramic Capacitors New Description=Multilayer Ceramic Capacitors, SMD 0805
+Change Component Description : Designator=R1 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R2 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R3 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R4 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R5 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R6 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R7 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R8 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R9 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R10 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R11 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R12 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R13 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R14 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R15 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R16 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R17 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=R18 Old Description=0805 Thick Film SMD Resistor New Description=Chip-Resistor, SMD 0805, , RoHS
+Change Component Description : Designator=C3 Old Description=SMD_6.3X5.4 New Description=Aluminum Electrolytic Capacitor, SMD ØDxL=6.3x5.4mm
+Change Component Description : Designator=C4 Old Description=Ø5*11mm 2mm Pitch New Description=Aluminum Electrolytic Capacitor, Through Hole, ØDxL=5*11mm Pitch=2mm

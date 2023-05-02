@@ -1,0 +1,21 @@
+CSV text has been written to file : RBM_V1.0_Schlib.csv
+
+Library Component Count : 14
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+Bridge Rectifier    
+Ceramic Capacitor   
+Connector_2PINs     
+Connector_4PINs     
+Diode               
+Eectrolytic Capacitor
+Fuse                
+Inductor            
+LED                 
+Resistor            
+SMPS_IC_8pin        
+Thermistor          
+Varistor            
+Zener Diode         

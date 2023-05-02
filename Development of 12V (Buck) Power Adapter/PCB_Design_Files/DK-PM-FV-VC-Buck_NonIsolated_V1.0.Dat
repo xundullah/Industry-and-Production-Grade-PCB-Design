@@ -1,0 +1,26 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~DK-PM-FV-VC-Buck_NonIsolated_V1.0.PrjPCB|ReportField=ProjectFullPath~C:\Users\RBM\OneDrive\_Office_related\Running_Projects\DK-PM-FV-VC-Buck_NonIsolated\PCB design\DK-PM-FV-VC-Buck_NonIsolated_V1.0.PrjPCB|ReportField=Title~Bill of Materials For Project [DK-PM-FV-VC-Buck_NonIsolated_V1.0.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~9:51:23 AM|ReportField=ReportDate~15-Nov-18|ReportField=ReportDateTime~15-Nov-18 9:51:23 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~31|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~Walton Hi-Tech Ind. Ltd.|ReportField=CurrentDate~15-Nov-18|ReportField=CurrentTime~9:51:16 AM|ReportField=Date~13-Nov-2018|ReportField=DocumentFullPathAndName~C:\Users\RBM\OneDrive\_Office_related\Running_Projects\DK-PM-FV-VC-Buck_NonIsolated\PCB design\DK-PM-FV-VC-Buck_NonIsolated_V1.0.SchDoc|ReportField=DocumentName~DK-PM-FV-VC-Buck_NonIsolated_V1.0.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Raihan Bin Mofidul|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~14-Nov-18|ReportField=Organization~|ReportField=ProjectName~DK-PM-FV-VC-Buck_NonIsolated_V1.0.PrjPCB|ReportField=Revision~V1.0|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~DK-PM-FV-VC-Buck_NonIsolated|ReportField=DataSourceFileName~DK-PM-FV-VC-Buck_NonIsolated_V1.0.PrjPCB|ReportField=DataSourceFullPath~C:\Users\RBM\OneDrive\_Office_related\Running_Projects\DK-PM-FV-VC-Buck_NonIsolated\PCB design\DK-PM-FV-VC-Buck_NonIsolated_V1.0.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|ABS10   SOP-4||BR1|BR_SMD_ABS10|Bridge Rectifier|1
+2|Ø8*13mm  400V/4.7uF  105℃||C1, C2|C_8x13_P3.556|Capacitor Polar|2
+3|0805 470pF 50V 20%||C3|C_0805|Capacitor Non-Polar|1
+4|Ø5*12mm 22uF/25V 105℃ low ESR||C4|C_5x12_P2.54|Capacitor Polar|1
+5|Ø8*12mm  470uF/16V  105℃ low ESR||C5|C_8x12_P3.556|Capacitor Polar|1
+6|P2D||CN1|CN_BM04B-GHS-TBT_180_DIP|Connector_4PINs|1
+7|FS||CN2|CN_B2B-XH-A_RED|Connector_2PINs|1
+8|RS||CN3|CN_B2B-XH-A_WHITE|Connector_2PINs|1
+9|0.1uF 275V 20%||CX1|C_X1_P10|Capacitor Non-Polar|1
+10|ES1J  DO-214AC||D1, D2|D_ES1J-DO-214AC|Diode|2
+11|T 2A 250V||F1|F_4x8_P5|Fuse|1
+12|Ø6*10mm 1.5mH  0.2A||L1, L2|L_6x10_P3|Inductor|2
+13|Ø6*10mm 470uH  0.3A||L3|L_6x10_P3|Inductor|1
+14|4.8mm PCB Tab Terminal (Straight)||L, N|CN_4.8mm PCB Tab Terminal (Straight)|Connector_1PIN|2
+15|Φ3*5mm, RED, Vf=3.2V, 20mA||LED1|LED_3x5_P2.5|LED|1
+16|10D471||MOV1|MOV_10D471|Varistor|1
+17|1206  1MΩ   5%|[NoValue], 1206  1MΩ   5%|R1, R2|R_1206|Resistor|2
+18|0805  4.7KΩ   1%||R3|R_0805|Resistor|1
+19|0805  5.1K   1%||R4|R_0805|Resistor|1
+20|0805  100Ω   1%||R5|R_0805|Resistor|1
+21|1206  1R  1%||R6, R7|R_1206|Resistor|2
+22|1206  470Ω   5%||R8|R_1206|Resistor|1
+23|0805 2.2K 5%||R9|R_0805|Resistor|1
+24|5D-5||RT1|RT_5D-5-(B)|Thermistor|1
+25|DK912 DIP-8||U1|U_DK912_TH|IC_SMPS_8pin|1

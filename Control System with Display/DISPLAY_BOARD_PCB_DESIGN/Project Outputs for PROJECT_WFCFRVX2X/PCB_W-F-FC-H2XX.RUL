@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\W_RBM_PROJECTS\W_PROJECT_RUNNING\W-F-FC-H22X-S2XX\HARDWARE_DEVELOPMENT\DISPLAY_BOARD_PCB_DESIGN\PCB_W-F-FC-H2XX.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
