@@ -41,7 +41,7 @@ A sophisticated dual-board control system featuring separate control and display
 
 ---
 
-### 2. Control System with Segmented Display
+### 2. Control System with Segmented Display including Cap-Touch RGB Lighting
 
 An advanced control system featuring seven-segment display integration for numeric readouts and status indication.
 
