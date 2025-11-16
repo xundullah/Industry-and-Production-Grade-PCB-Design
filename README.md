@@ -45,9 +45,14 @@ A sophisticated dual-board control system featuring separate control and display
 
 An advanced control system featuring seven-segment display integration for numeric readouts and status indication.
 
-![Segmented Display Control System](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Control%20System%20with%20Segmented%20Display/PCB_Pictures/1.jpg)
-![PCB Layout View](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Control%20System%20with%20Segmented%20Display/PCB_Pictures/2.jpg)
-![Assembled Board](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Control%20System%20with%20Segmented%20Display/PCB_Pictures/3.jpg)
+![PCB](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Segmented%20Display%20with%20LED%20Touch/PCB_Pictures/2.JPG)
+![3D-PCB](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Segmented%20Display%20with%20LED%20Touch/PCB_Pictures/3.JPG)
+![ISO-Top](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Segmented%20Display%20with%20LED%20Touch/PCB_Pictures/4.JPG)
+![ISO-Bottom](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Segmented%20Display%20with%20LED%20Touch/PCB_Pictures/5.JPG)
+![BOM](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Segmented%20Display%20with%20LED%20Touch/PCB_Pictures/1.JPG)
+
+
+
 
 **Key Features:**
 - Seven-segment LED display driver circuits
