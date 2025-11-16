@@ -72,7 +72,7 @@ High-efficiency switch-mode power supply (SMPS) design for converting a higher v
 ![Iso-Font](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Development%20of%2012V%20(Buck)%20Power%20Adapter/Pictures/2.JPG)
 ![Iso-Back](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Development%20of%2012V%20(Buck)%20Power%20Adapter/Pictures/3.JPG)
 ![BOM](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Development%20of%2012V%20(Buck)%20Power%20Adapter/Pictures/4.JPG)
-![Product](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Development%20of%2012V%20(Buck)%20Power%20Adapter/Pictures/Our%20Sample.JPG)
+![Product](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Development%20of%2012V%20(Buck)%20Power%20Adapter/Pictures/Our%20Sample.jpg)
 
 **Key Features:**
 - High-efficiency buck converter topology
