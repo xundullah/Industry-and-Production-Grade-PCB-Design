@@ -23,12 +23,12 @@ This repository contains documentation and design files for various production-g
 
 A sophisticated dual-board control system featuring separate control and display PCBs for modular design and enhanced functionality.
 
-![Control System with Display](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Control%20System%20with%20Display/PCB_PICTURES/WFCFRVX2X_DISPLAY_BOARD_PCB_DESIGN.JPG)
+![Iso-View of Display](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Control%20System%20with%20Display/PCB_PICTURES/3.JPG)
+![Iso-View of Control System](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Control%20System%20with%20Display/PCB_PICTURES/8.JPG)
 ![Control Board Detail](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Control%20System%20with%20Display/PCB_PICTURES/WFCFRV2XX_CONTROL_BOARD_PCB_DESIGN.JPG)
 ![Display Board Detail](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Control%20System%20with%20Display/PCB_PICTURES/WFCFRVX2X_DISPLAY_BOARD_PCB_DESIGN.JPG)
 ![Bill of Material](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Control%20System%20with%20Display/PCB_PICTURES/5.JPG)
-![Iso-View of Display](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Control%20System%20with%20Display/PCB_PICTURES/3.JPG)
-![Iso-View of Control System](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Control%20System%20with%20Display/PCB_PICTURES/8.JPG)
+
 
 
 **Key Features:**
