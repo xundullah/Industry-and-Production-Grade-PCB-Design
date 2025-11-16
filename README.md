@@ -15,6 +15,122 @@ This repository contains documentation and design files for various production-g
 - **Amplifier Circuit Design** - High-performance analog amplifier circuits
 - **AIoT Module Development** - Internet of Things modules with AI capabilities
 
+---
+
+## 📸 Featured Projects
+
+### 1. Control System with Display
+
+A sophisticated dual-board control system featuring separate control and display PCBs for modular design and enhanced functionality.
+
+![Control System with Display](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Control%20System%20with%20Display/PCB_PICTURES/1.jpg)
+![Control Board Detail](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Control%20System%20with%20Display/PCB_PICTURES/2.jpg)
+![Display Board Detail](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Control%20System%20with%20Display/PCB_PICTURES/3.jpg)
+
+**Key Features:**
+- Modular control and display board architecture
+- Microcontroller-based control system
+- Professional PCB layout with optimal routing
+- Industrial-grade components
+
+[View Project Details →](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/tree/main/Control%20System%20with%20Display)
+
+---
+
+### 2. Control System with Segmented Display
+
+An advanced control system featuring seven-segment display integration for numeric readouts and status indication.
+
+![Segmented Display Control System](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Control%20System%20with%20Segmented%20Display/PCB_Pictures/1.jpg)
+![PCB Layout View](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Control%20System%20with%20Segmented%20Display/PCB_Pictures/2.jpg)
+![Assembled Board](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Control%20System%20with%20Segmented%20Display/PCB_Pictures/3.jpg)
+
+**Key Features:**
+- Seven-segment LED display driver circuits
+- Multiplexed display control
+- Compact PCB design
+- Low power consumption
+
+[View Project Details →](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/tree/main/Control%20System%20with%20Segmented%20Display)
+
+---
+
+### 3. Development of 12V Buck Power Adapter
+
+High-efficiency switch-mode power supply (SMPS) design for converting higher voltage to regulated 12V DC output.
+
+![12V Buck Converter](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Development%20of%2012V%20(Buck)%20Power%20Adapter/Pictures/1.jpg)
+![Power Circuit Layout](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Development%20of%2012V%20(Buck)%20Power%20Adapter/Pictures/2.jpg)
+![Assembled Power Board](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Development%20of%2012V%20(Buck)%20Power%20Adapter/Pictures/3.jpg)
+
+**Key Features:**
+- High-efficiency buck converter topology
+- Thermal management design
+- Protection circuits (OVP, OCP, thermal shutdown)
+- Compact form factor
+- EMI filtering
+
+[View Project Details →](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/tree/main/Development%20of%2012V%20(Buck)%20Power%20Adapter)
+
+---
+
+### 4. Digital Temperature Monitor
+
+Precision temperature monitoring system with digital display for real-time temperature indication.
+
+![Digital Temperature Monitor](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Digital%20Temperature%20Monitor/Pictures/1.jpg)
+![Display PCB](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Digital%20Temperature%20Monitor/Pictures/2.jpg)
+![Sensor Integration](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Digital%20Temperature%20Monitor/Pictures/3.jpg)
+
+**Key Features:**
+- Temperature sensor interfacing
+- Digital display integration
+- Calibration and accuracy optimization
+- Real-time monitoring capability
+- User-friendly interface
+
+[View Project Details →](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/tree/main/Digital%20Temperature%20Monitor)
+
+---
+
+### 5. Electronic Thermostat
+
+Intelligent temperature control system with programmable setpoints and relay-based switching for heating/cooling applications.
+
+![Electronic Thermostat](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Electronic%20Thermostat/Pictures/1.jpg)
+![Thermostat PCB](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Electronic%20Thermostat/Pictures/2.jpg)
+![Control Interface](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Electronic%20Thermostat/Pictures/3.jpg)
+
+**Key Features:**
+- Programmable temperature control
+- Relay switching for high-power loads
+- Hysteresis control for stable operation
+- Temperature sensor integration
+- User interface with display and buttons
+
+[View Project Details →](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/tree/main/Electronic%20Thermostat)
+
+---
+
+### 6. Segmented Display with LED Touch
+
+Advanced user interface combining seven-segment displays with capacitive touch buttons and LED indicators.
+
+![LED Touch Display](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Segmented%20Display%20with%20LED%20Touch/PCB_Pictures/1.jpg)
+![Touch Interface Board](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Segmented%20Display%20with%20LED%20Touch/PCB_Pictures/2.jpg)
+![Complete Assembly](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Segmented%20Display%20with%20LED%20Touch/PCB_Pictures/3.jpg)
+
+**Key Features:**
+- Capacitive touch button technology
+- LED indicators for visual feedback
+- Seven-segment display integration
+- Modern HMI design
+- Noise-immune touch sensing
+
+[View Project Details →](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/tree/main/Segmented%20Display%20with%20LED%20Touch)
+
+---
+
 ## 📋 Key Features
 
 - ✅ Production-ready PCB designs
@@ -28,7 +144,7 @@ This repository contains documentation and design files for various production-g
 ## 🛠️ Technologies & Tools
 
 ### PCB Design Software
-- Industry-standard EDA tools for schematic capture and PCB layout
+- **Altium Designer** - Professional EDA tool for schematic capture and PCB layout
 - 3D modeling and visualization tools
 - Signal integrity and power integrity analysis tools
 
@@ -40,6 +156,7 @@ This repository contains documentation and design files for various production-g
 - Amplifier circuits
 - IoT communication modules
 - Embedded control systems
+- Temperature sensing and control circuits
 
 ### Standards & Practices
 - IPC standards compliance
@@ -51,13 +168,27 @@ This repository contains documentation and design files for various production-g
 ## 📁 Repository Structure
 
 ```
-├── Smart-Displays/          # Touch button and LED display PCBs
-├── Power-Circuits/          # Power supply and management circuits
-├── Main-Boards/             # Core system circuit boards
-├── Amplifiers/              # Amplifier circuit designs
-├── AIoT-Modules/            # AI-enabled IoT modules
-├── Documentation/           # Technical documentation and datasheets
-└── Resources/               # Reference materials and guidelines
+├── Control System with Display/           # Dual-board control and display system
+│   ├── CONTROL_BOARD_PCB_DESIGN/
+│   ├── DISPLAY_BOARD_PCB_DESIGN/
+│   └── PCB_PICTURES/
+├── Control System with Segmented Display/ # Seven-segment display control
+│   ├── PCB_Design_Files/
+│   └── PCB_Pictures/
+├── Development of 12V (Buck) Power Adapter/  # Switch-mode power supply
+│   ├── PCB_Design_Files/
+│   └── Pictures/
+├── Digital Temperature Monitor/           # Temperature monitoring system
+│   ├── W-F-DX-C1_Display_PCB/
+│   └── Pictures/
+├── Electronic Thermostat/                # Programmable thermostat
+│   ├── PCB_Design_Files/
+│   └── Pictures/
+├── Segmented Display with LED Touch/     # Touch interface with display
+│   ├── PCB_Design_Files/
+│   └── PCB_Pictures/
+├── 3D Step Files/                        # 3D models for mechanical integration
+└── Altium Libraries/                     # Custom component libraries
 ```
 
 ## 🎯 Design Highlights
@@ -93,6 +224,7 @@ This repository contains documentation and design files for various production-g
 - **Operating Voltage**: Various (3.3V, 5V, 12V, 24V, AC mains)
 - **Operating Temperature**: -40°C to +85°C (industrial grade)
 - **Design Focus**: Reliability, manufacturability, and cost-effectiveness
+- **Design Tool**: Altium Designer
 
 ## 🚀 Manufacturing Experience
 
@@ -110,7 +242,8 @@ Each project includes:
 - PCB layout files
 - Bill of Materials (BOM)
 - Assembly drawings
-- Test procedures
+- 3D STEP files for mechanical integration
+- High-resolution PCB photographs
 - Technical specifications
 
 ## 🎓 About
@@ -202,7 +335,7 @@ This repository is for portfolio and educational purposes. Individual projects m
 
 ---
 
-*Last Updated: November 2025*
+*Last Updated: January 2025*
 
 **Note**: This portfolio represents work completed during professional employment and academic research. All designs comply with respective confidentiality and intellectual property agreements.
 
@@ -215,7 +348,3 @@ Currently pursuing research that bridges PCB design expertise with AI-powered sy
 - Smart infrastructure management
 - AI-enabled IoT devices
 - Sustainable and resilient critical systems
-
----
-
-**⭐ If you find this portfolio helpful or interesting, please consider starring this repository!**
