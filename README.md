@@ -19,13 +19,17 @@ This repository contains documentation and design files for various production-g
 
 ## 📸 Featured Projects
 
-### 1. Control System with Display
+### 1. ON/OFF Control System with Display including Cap-Touch
 
 A sophisticated dual-board control system featuring separate control and display PCBs for modular design and enhanced functionality.
 
-![Control System with Display](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Control%20System%20with%20Display/PCB_PICTURES/1.jpg)
-![Control Board Detail](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Control%20System%20with%20Display/PCB_PICTURES/2.jpg)
-![Display Board Detail](https://raw.githubusercontent.com/xundullah/Industry-and-Production-Grade-PCB-Design/main/Control%20System%20with%20Display/PCB_PICTURES/3.jpg)
+![Control System with Display](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Control%20System%20with%20Display/PCB_PICTURES/WFCFRVX2X_DISPLAY_BOARD_PCB_DESIGN.JPG)
+![Control Board Detail](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Control%20System%20with%20Display/PCB_PICTURES/WFCFRV2XX_CONTROL_BOARD_PCB_DESIGN.JPG)
+![Display Board Detail](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Control%20System%20with%20Display/PCB_PICTURES/WFCFRVX2X_DISPLAY_BOARD_PCB_DESIGN.JPG)
+![Bill of Material](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Control%20System%20with%20Display/PCB_PICTURES/5.JPG)
+![Iso-View of Display](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Control%20System%20with%20Display/PCB_PICTURES/3.JPG)
+![Iso-View of Control System](https://github.com/xundullah/Industry-and-Production-Grade-PCB-Design/blob/main/Control%20System%20with%20Display/PCB_PICTURES/8.JPG)
+
 
 **Key Features:**
 - Modular control and display board architecture
